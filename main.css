@@ -1,0 +1,101 @@
+body{
+	background-color: #F4F4F4;
+	
+}
+#navbar{
+	background-image: url(images/navbar.jpg);
+	height: 200px; margin-bottom: 50px;
+	
+}
+.nav-link{
+	color: white;
+	hover{color: black}
+}
+.navbar-brand{
+	width: 700px;
+	margin-left: 50px;
+	color: white;
+	font-size: 20px;
+	font-weight: bolder;
+}
+.book{
+	background-color:#DABB5F;
+}
+#book_now{
+	color: black;
+}
+.icon{
+	max-height: 40px;
+	margin-left: 30px;
+}
+
+#icon_row{
+	background-color: #E4E4E4;
+	margin-bottom: 40px;
+
+}
+.room_column{
+	margin-top: 100px;
+	/*background-color:#FFFFFF;*/
+}
+.room_search{
+	width: 320px;
+	height: 40px;
+	margin-bottom: 20px;
+}
+.avaliable{
+	font-size: 16px;
+	font-weight: bolder;
+}
+h1{
+	font-weight: bolder;
+	margin-top: 30px;
+}
+#room_button_select{
+	background-color: #DABB5F;
+	height: 40px
+	width:80px;
+}
+#Check-Avaliablity{
+	background-color: #DABB5F;
+	height: 40px;
+}
+footer{
+	background-color: #182B49;
+	margin-top: 200px;
+	
+	
+}
+.price{
+	background-color: #182B49;
+	height:35px;
+	color: #FFFFFF;
+	width: 350px;
+}
+.send{
+	background-color: #DABB5F;
+}
+.footer_text{
+	color: #FFFFFF;
+	margin-top: 115px;
+
+}
+.footer_logo{
+	color: #FFFFFF;
+	font-size: 25px;
+	font-weight: bolder;
+	margin-top: 40px;
+}
+.footer_stay{
+	margin-top: 80px;
+
+
+}
+.margin-left{
+	margin-left: 40px
+}
+.container-fluid{
+	width: 100%; 
+	padding-left: 0px;
+	padding-right: 0px;
+}
